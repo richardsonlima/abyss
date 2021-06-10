@@ -1,4 +1,4 @@
-Django==1.6.1
+Django==2.2.24
 gunicorn==0.17.2
 pluct==0.4.1
 requests==1.2.0
